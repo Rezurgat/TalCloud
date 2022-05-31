@@ -123,3 +123,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 ALGORITHM = 'HS256'
 ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24
+
+GOOGLE_CLIENT_ID = '399712944906-j5nf9q55pf14g475cb917r8phue6nvfd.apps.googleusercontent.com'
